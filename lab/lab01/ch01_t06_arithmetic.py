@@ -2,4 +2,4 @@ Sep  = 10
 Oct = 10 
 Nov = 10 
 Dec  = 10 
-annual_rainfall = SEP + Octb + Nov + Dec
+annual_rainfall = Sep + Octb + Nov + Dec
