@@ -1,1 +1,1 @@
-print(satements)
+print(statements)
