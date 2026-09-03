@@ -1,1 +1,1 @@
-greeting_message = "todays_date" 
+greeting_message = "todays_date=" 
