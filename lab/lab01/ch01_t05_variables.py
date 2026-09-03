@@ -1,1 +1,3 @@
-greeting_message = "todays_date = 5" 
+greeting_message = "Welcome to Codecademy!" 
+current_excercise = 5
+
